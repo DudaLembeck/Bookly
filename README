@@ -1,0 +1,17 @@
+Nome: Maria Eduarda Lembeck
+
+Descrição: Um aplicativo que mostra uma lista de 6 livros famosos, podendo vizualizar seus detalhes sendo: Título, Autor, Descrição, Foto e Data de Lançamento. O app tem a interface de Login e Cadastro  e Recuperação de senha, pedindo : Nome, E-mail e Senha.
+
+Telas : HomePage.vue - Lista de livros
+LoginPage.vue - Página de Login
+CadastroPage.vue - Página de Cadastro
+DetalheLivro.vue - Página que mostra detalhes do livro escolhido
+RecuperarSenha.vue - Página para recuperação de senha
+
+Como rodar o projeto: 
+- Baixe o projeto em zip
+- Descompacte o projeto
+- Abra o terminal
+- Entre no projeto utilizando : cd (nome do projeto)
+- Utilize : code .  (Para abrir o projeto no VScode)
+- Rode (ionic serve) para abrir o projeto no ionic. 
