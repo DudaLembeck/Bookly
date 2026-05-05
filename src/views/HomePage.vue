@@ -14,7 +14,7 @@
       </ion-header>
         <div class="navbar">
           <ul>
-            <li @click="$router.push('/login')">Login</li>
+         
             <li  @click="$router.push('/cadastro')">Cadastro</li>
           </ul>
         </div>

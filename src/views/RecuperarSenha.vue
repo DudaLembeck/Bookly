@@ -20,8 +20,8 @@
      <ion-card>  
      
           <ion-card-header> 
-            <ion-card-title>LOGIN</ion-card-title>
-            <ion-card-subtitle>Realize seu Login </ion-card-subtitle>
+            <ion-card-title>RECUPERAÇÃO DE SENHA</ion-card-title>
+            <ion-card-subtitle>Recupere aqui sua senha</ion-card-subtitle>
           </ion-card-header>  
            <ion-card-content>
         

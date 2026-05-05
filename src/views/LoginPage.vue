@@ -13,9 +13,6 @@
         </ion-toolbar>
       </ion-header>
 
-      <ion-button @click="$router.push('/home')">
-       Voltar
-      </ion-button>
 
      <ion-card>  
      
