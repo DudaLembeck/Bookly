@@ -12,9 +12,9 @@
           <ion-title size="large">Bookly</ion-title>
         </ion-toolbar>
       </ion-header>
+     
         <div class="navbar">
           <ul>
-         
             <li  @click="$router.push('/cadastro')">Cadastro</li>
           </ul>
         </div>

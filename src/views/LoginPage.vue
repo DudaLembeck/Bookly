@@ -21,6 +21,8 @@
             <ion-card-subtitle>Realize seu Login </ion-card-subtitle>
           </ion-card-header>  
            <ion-card-content>
+             <h2 >Nome:</h2>
+           <ion-input  v-model="nome" type="text" placeholder="Insira seu nome"></ion-input>
            <h2 >Email:</h2>
            <ion-input  v-model="email" type="text" placeholder="Insira seu email"></ion-input>
              <h2>Senha:</h2>
@@ -50,6 +52,7 @@ import { ref } from 'vue'
 
 const email = ref('')
 const senha = ref('')
+const nome = ref('')
 
 
 
